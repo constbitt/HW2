@@ -37,15 +37,15 @@
 #### 2.1.1. Создание заказа
 	Order № 1 created successfully.
 		╔══════════════════════════════════╗
-		║     			MENU 			   ║
+		║     		MENU 		   ║
 		╠══════════════════════════════════╣
-		║ 1. Savory Pasta    		  15.0 ║
-		║ 2. Grilled Salmon       	  20.0 ║
+		║ 1. Savory Pasta    	      15.0 ║
+		║ 2. Grilled Salmon           20.0 ║
 		║ 3. BBQ Ribs                 25.0 ║
 		║ 4. Caesar Salad             12.0 ║
 		║ 5. Margherita Pizza         18.0 ║
 		║ 6. Lemonade                  5.0 ║
-		║ 7. Iced Americano       	   4.5 ║
+		║ 7. Iced Americano            4.5 ║
 		╚══════════════════════════════════╝
 	Choose dishes by entering their numbers separated by spaces:  
 Выводится меню, нужно ввести номера желаемых позиций через пробел. 
@@ -182,15 +182,15 @@ Press enter to continue...
 Выводится меню:
 
 		╔══════════════════════════════════╗
-		║     			MENU 			   ║
+		║     		MENU 		   ║
 		╠══════════════════════════════════╣
-		║ 1. Savory Pasta    		  15.0 ║
-		║ 2. Grilled Salmon       	  20.0 ║
+		║ 1. Savory Pasta    	      15.0 ║
+		║ 2. Grilled Salmon           20.0 ║
 		║ 3. BBQ Ribs                 25.0 ║
 		║ 4. Caesar Salad             12.0 ║
 		║ 5. Margherita Pizza         18.0 ║
 		║ 6. Lemonade                  5.0 ║
-		║ 7. Iced Americano       	   4.5 ║
+		║ 7. Iced Americano            4.5 ║
 		╚══════════════════════════════════╝
 
 #### 2.2.5. Назад
